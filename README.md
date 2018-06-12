@@ -16,8 +16,10 @@
 ![jump.gif](https://upload-images.jianshu.io/upload_images/2567841-bc55c5917945ea48.gif?imageMogr2/auto-orient/strip)
 
 
-简书
-android组件化之旅(一)
-https://www.jianshu.com/p/1f918bff30ed
-android组件化之旅(二)
-https://www.jianshu.com/p/a374d7159252
+建议不要在组件化项目使用黄油刀,因为在切换的时候注解会找不到R文件,所以手动findViewById()吧少年
+
+##简书
+######android组件化之旅(一)
+#####https://www.jianshu.com/p/1f918bff30ed
+#####android组件化之旅(二)
+#####https://www.jianshu.com/p/a374d7159252
