@@ -21,7 +21,7 @@
 ```
 
 ## 简书
-######a ndroid组件化之旅(一)
+###### android组件化之旅(一)
 ##### https://www.jianshu.com/p/1f918bff30ed
 ##### android组件化之旅(二)
 ##### https://www.jianshu.com/p/a374d7159252
